@@ -1,0 +1,57 @@
+🎨 O que é?
+É um editor de pixel art online com estilo retrô, inspirado em computadores antigos dos anos 80/90. Permite criar imagens pixel a pixel e animar quadros.
+
+🛠️ Principais Funcionalidades:
+Ferramentas de Desenho:
+
+🖍️ Lápis - desenha pixel por pixel
+✏️ Borracha - remove pixels
+📏 Linha - desenha linhas retas
+▭ Caixa - cria retângulos
+⭕ Círculo - cria círculos
+🪣 Preenchimento - preenche áreas com cor
+📐 Selecionar - seleciona regiões para copiar/colar
+🎯 Seletor de Cor - pega cores da imagem
+Pincel:
+
+Controla o tamanho (1-8 pixels)
+Escolhe a forma: Quadrado, Circular ou Diamante
+Camadas:
+
+Trabalha com múltiplas camadas
+Pode mover, mesclar, duplicar
+Animação:
+
+Cria quadros de animação
+Controla FPS (velocidade)
+Pele de Cebola (vê o quadro anterior)
+Loop automático
+Exporta como GIF animado
+Paletas:
+
+Usa cores de computadores clássicos:
+Commodore 64, Game Boy, NES, PICO-8, CGA, EGA, VGA, Apple II, Amstrad, etc.
+Importar/Exportar:
+
+Importa PNG, JPG, GIF, BMP
+Exporta em PNG, JPEG, WEBP, BMP, ICO
+Suporta GIFs animados
+Edição:
+
+Copiar, Cortar, Colar, Desfazer/Refazer
+Girar 90°, Espelhar (H/V)
+Inverter cores
+Modo espelho para desenhar simetria
+Tela:
+
+Tamanhos de 8x8 a 128x128 pixels
+Zoom de 4x a 32x
+Grade visível
+Efeito de linhas CRT retrô
+Salva automaticamente
+🎮 Como Usar:
+Escolha uma ferramenta no painel esquerdo
+Selecione uma cor na paleta à direita
+Desenhe na tela central
+Crie quadros para animar
+Exporte como imagem ou GIF
